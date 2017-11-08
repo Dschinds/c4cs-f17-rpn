@@ -1,5 +1,7 @@
 language: python
 python:
 - "3.5"
+service_name: travis-pro
+repo_token: yBnVMhCkykgZRD3i9sSJXgfrChxVDLo2Z
 script:
   python3 -m unittest
