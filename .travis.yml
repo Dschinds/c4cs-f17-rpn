@@ -9,4 +9,4 @@ script:
 - coverage run test_rpn.py
 
 after_success:
- - codecov --token=<1cbdcc9d-84c4-448e-8ae0-622e5d36163e>
+ - codecov
